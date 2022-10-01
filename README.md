@@ -4,6 +4,7 @@ Their addresses, names, etc. I personally prefer to keep order in invoice docume
 The script makes use of an API shared by the inventory platform Baselinker. 
 More information about API and methods needed for Baselinked data retrival: https://api.baselinker.com/index.php
 
+The information on the screen shots is a dummy example not REAL PERSONAL DATA!
 Before:
 ![exmp_1](https://user-images.githubusercontent.com/112077671/193429097-dc985b45-7ec8-480b-9fb6-8a02196ea229.JPG)
 
